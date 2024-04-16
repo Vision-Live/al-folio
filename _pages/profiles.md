@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: My Associations
 nav: true
-nav_order: 6
+nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -19,7 +19,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     image: prof_pic_ste.jpg
-    content: about_Ste.md
+    content: about_ste.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
