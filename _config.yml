@@ -91,7 +91,7 @@ research_gate_profile: # your profile on ResearchGate
 scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
-spotify_id: 1163574602?si=DXimkuyaQDDWzTi1n01dYGA # your spotify id
+spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
@@ -101,11 +101,11 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: PhilMorganblog # your X handle
-youtube_id: philmorgan4316 # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Best way to connect with me is by email.
+  Best way to connect with me is by email or phone.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -133,7 +133,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -182,7 +182,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
