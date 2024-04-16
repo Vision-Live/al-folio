@@ -88,9 +88,6 @@
 {% if site.lastfm_id %}
   <a href="https://www.last.fm/user/{{ site.lastfm_id }}" title="Last FM"><i class="fa-brands fa-lastfm"></i></a>
 {% endif %}
-{% if site.spotify_id %}
-  <a href="https://open.spotify.com/user/{{ site.spotify_id }}" title="Spotify"><i class="fa-brands fa-spotify"></i></a>
-{% endif %}
 {% if site.pinterest_id %}
   <a href="https://www.pinterest.com/{{ site.pinterest_id }}" title="Pinterest"><i class="fa-brands fa-pinterest"></i></a>
 {% endif %}
@@ -105,9 +102,6 @@
 {% endif %}
 {% if site.bluesky_url %}
   <a href="https://bsky.app/profile/{{ site.bluesky_url }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
-{% endif %}
-{% if site.youtube_id %}
-  <a href="https://youtube.com/@{{ site.youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
 {% endif %}
 {% if site.discord_id %}
   <a href="https://discord.com/users/{{ site.discord_id }}" title="Discord"><i class="fa-brands fa-discord"></i></a>
