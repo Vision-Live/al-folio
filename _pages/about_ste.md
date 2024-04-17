@@ -1,1 +1,1 @@
-A friendly fella who helped make this website
+The person who helped make this website
